@@ -1,5 +1,5 @@
 # Use the base image for JavaScript projects
-FROM whanos-js
+FROM whanos-javascript
 
 # Update and install basic tools
 RUN apt-get update && \
